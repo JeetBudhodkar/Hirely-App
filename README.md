@@ -81,7 +81,7 @@ The platform focuses on streamlining the digital recruitment process, providing 
     <td align="center" width="33%"><b>📄 Comprehensive Details</b></td>
   </tr>
   <tr>
-    <td><img src="assets/alljoblisiting.png" width="100%"></td>
+    <td><img src="assets/alljoblisting.png" width="100%"></td>
     <td><img src="assets/search_category.png" width="100%"></td>
     <td><img src="assets/indetails_jobs.png" width="100%"></td>
   </tr>
@@ -94,16 +94,19 @@ The platform focuses on streamlining the digital recruitment process, providing 
 
 <table align="center">
   <tr>
-    <td align="center" width="50%"><b>➕ Publish Vacancy</b></td>
-    <td align="center" width="50%"><b>📌 Recruiter Control Panel</b></td>
+    <td align="center" width="33%"><b>➕ Publish Vacancy</b></td>
+    <td align="center" width="33%"><b>📌 Jobs Posted By You</b></td>
+    <td align="center" width="33%"><b>👤 Profile Info</b></td>
   </tr>
   <tr>
-    <td><img src="assets/jonposting.png" width="80%"></td>
-    <td><img src="assets/jobspostedbyyou.png" width="80%"></td>
+    <td><img src="assets/jobposting.png" width="100%"></td>
+    <td><img src="assets/jobspostedbyyou.png" width="100%"></td>
+    <td><img src="assets/profileinfo.png" width="100%"></td>
   </tr>
   <tr>
     <td valign="top">Input form validation ensuring all critical job parameters are logged accurately.</td>
     <td valign="top">A personalized list tracking all positions authored by the current user with full deletion control.</td>
+    <td valign="top">Manage account preferences, view account information, and securely handle session sign-out.</td>
   </tr>
 </table>
 

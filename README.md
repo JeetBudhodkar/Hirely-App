@@ -22,6 +22,19 @@
 The platform focuses on streamlining the digital recruitment process, providing a smooth user experience for both applicants hunting for roles and recruiters managing active postings.
 
 ---
+## 📥 Download Application
+
+Get the latest stable release of the application directly below:
+
+<p align="center">
+  <a href="assets/hirely_V1.apk">
+    <img src="https://img.shields.io/badge/Download_APK-v1.0.0-emerald?style=for-the-badge&logo=android&logoColor=white" alt="Download APK v1.0.0">
+  </a>
+</p>
+
+> ℹ️ **Note:** Since this app is distributed as an independent APK file, you may need to enable *"Install from Unknown Sources"* in your Android security settings during installation.
+
+---
 
 ## ✨ Key Features
 
